@@ -9,7 +9,7 @@ flask-swagger==0.2.13
 Flask-WTF==0.12
 gitdb2==2.0.2
 GitPython==2.1.5
-gunicorn==19.3.0
+gunicorn==19.5.0
 lxml==3.8.0
 numpy==1.13.1
 pandas==0.20.3
