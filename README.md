@@ -16,3 +16,6 @@ AIRFLOW_HOME = /app
  ![Imgur](https://i.imgur.com/BvBh9wT.png)
 
 2. directly deply to heroku 
+
+
+![Imgur](https://i.imgur.com/UNhU8Bi.png)
