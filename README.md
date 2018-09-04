@@ -1,6 +1,6 @@
 # heroku_airflow
-airflow in heroku 
-directly deply to heroku 
+airflow in heroku. Test success 
+
 
 # db
 use SQLite
